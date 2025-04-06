@@ -1,0 +1,12 @@
+node_modules/
+
+*.log
+
+cypress/videos/
+cypress/screenshots/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
