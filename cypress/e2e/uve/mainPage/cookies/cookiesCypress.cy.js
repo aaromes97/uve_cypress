@@ -1,4 +1,4 @@
-/// <reference types="Cypress" /> 
+/// <reference types="cypress" />
 
 describe('UVE main page', () => {
     it('Should change the cookie language when the page language changes', () => {

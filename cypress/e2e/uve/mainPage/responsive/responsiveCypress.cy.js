@@ -1,4 +1,4 @@
-/// <reference types="Cypress" />
+/// <reference types="cypress" />
 
 describe('Responsive', () => {
     Cypress.on('uncaught:exception', (err, runnable) => {
